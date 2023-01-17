@@ -1,0 +1,35 @@
+{
+    "data":[
+        {
+            "id":"first",
+             "name":"Groceries",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMGc_WNhJP9x6-kNUFacG09IqrBW8E8YpZA&usqp=CAU"
+        },
+                {
+            "id":"second",
+             "name":"Health",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVZe3UbFQ3LFrK67ebOC_iK9CINloHA_CZA&usqp=CAU"
+        },
+                {
+            "id":"third",
+             "name":"Fees",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fMqh2V41NzG-DKtVwr7WKzha89rhsjdvzA&usqp=CAU"
+        },
+                {
+            "id":"fourth",
+             "name":"Gifts",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22VeS0d7jMZLi8Mk3is-we5roXeqzPOvTtA&usqp=CAU"
+        },
+                {
+            "id":"fifth",
+             "name":"Food",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TbRFV2iD97NJ1sMS9n98qO7IvADcvNZNWA&usqp=CAU"
+        },
+                {
+            "id":"sixth",
+             "name":"Entertainment",
+             "Bcolor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pdFwTaekBmCTxs6ra39xSUa_9dXiLwvGYA&usqp=CAU"
+        }
+        
+    ]
+}
